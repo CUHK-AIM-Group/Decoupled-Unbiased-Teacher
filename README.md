@@ -2,7 +2,7 @@
 
 :pushpin: This is an official PyTorch implementation of **[TNNLS 2023]** - [Decoupled Unbiased Teacher for Source-Free Domain Adaptive Medical Object Detection](https://ieeexplore.ieee.org/document/10132405).
 
-> [**A Source-free Domain Adaptive Polyp Detection Framework with Style Diversification Flow**]()<br>
+> [**Decoupled Unbiased Teacher for Source-Free Domain Adaptive Medical Object Detection**](https://ieeexplore.ieee.org/document/10132405)<br>
 > [Xinyu Liu](https://xinyuliu-jeffrey.github.io/), [Wuyang Li](https://wymancv.github.io/wuyang.github.io/), [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/)<br>The Chinese Univerisity of Hong Kong, City University of Hong Kong
 
 # 💡 Installation 
